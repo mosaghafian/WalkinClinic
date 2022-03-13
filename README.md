@@ -5,3 +5,6 @@ Walk-in clinic program designed based on OOP principles.
 Patient.h & Patient.cpp are the implemenation of the objects patient.
 List.h & List.cpp are the the implementation of a value oriented list that allows for 
 the operations of insertion and remove. 
+
+### Makefile
+Write make for creating the .o files and then ./wi for running the test driver
